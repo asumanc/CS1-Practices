@@ -1,1 +1,1 @@
-# Hackerrank_C-C-
+# HackerRank C/C++ questions
